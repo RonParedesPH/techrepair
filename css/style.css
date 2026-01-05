@@ -1440,7 +1440,7 @@ a.btn-style-one:hover{
 
 .choose-section{
   position: relative;
-  padding: 90px 0px 0px 0px;
+  padding: 90px 0px 90px 0px;
 }
 .choose-section .section-title{
   color: #222;
